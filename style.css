@@ -1,4 +1,23 @@
 body{
     background-color: rgb(132, 160, 197);
     color: brown;
+    margin: 0px;
 }
+
+section {
+    background-color: rgb(184, 156, 213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
+}
+
